@@ -1,19 +1,19 @@
 PATH
   remote: .
   specs:
-    mini-rails (0.1.0)
+    mini-rails (0.0.1)
 
 GEM
   remote: https://rubygems.org/
   specs:
-    rake (12.3.3)
+    sqlite3 (1.4.2)
 
 PLATFORMS
   ruby
 
 DEPENDENCIES
   mini-rails!
-  rake (~> 12.0)
+  sqlite3
 
 BUNDLED WITH
    2.1.2
